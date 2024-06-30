@@ -43,7 +43,7 @@ Homyz is a modern real estate web application built with the MERN (MongoDB, Expr
 
 2. Change into the project directory:
    bash
-   cd Real-estate-Booking-Website
+   cd Estate-Repo-Mern
    
 3. Install server dependencies:
 
@@ -100,9 +100,6 @@ Contributions are welcome! Please follow these steps to contribute to the projec
 
 5. Create a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
